@@ -1,0 +1,37 @@
+body
+{
+    background-color: blueviolet;
+}
+p
+{
+color:white;
+}
+
+.ex1
+{
+    height: 300px;
+    width: 300px;
+    background-color: azure;
+}
+
+.ex2
+{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+    margin: 100px;
+    padding: 50px;
+    border: 30px;
+    border c
+}
+
+
+.ex3
+{
+    height: 200px;
+    width: 200px;
+    background-color: beige;
+    margin: 100px;
+    padding : 50px;
+    border: 30px;
+}
